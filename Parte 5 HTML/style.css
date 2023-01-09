@@ -1,0 +1,29 @@
+body 
+{background-color: gray;}
+h1 
+{color: black;}
+
+#color {
+    background-color: lightblue;
+    padding-left: 10cm;
+    color: purple;
+}
+
+span.colorYellow{
+    color: yellow;
+}
+#yellow {
+    color: black;
+}
+span.colorBlue{
+    color: blue;
+}
+#blue {
+    color: black;
+}
+span.colorRed{
+    color: red;
+}
+#red {
+    color: black;
+}
